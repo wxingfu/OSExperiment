@@ -1,4 +1,8 @@
-﻿#include "prm.h"
+/*
+Author : UESTC wxingfu
+*/
+
+#include "prm.h"
 
 int main() {
 	//命令文件
