@@ -1,4 +1,8 @@
-﻿#ifndef PRM_H
+/*
+Author : UESTC wxingfu
+*/
+
+#ifndef PRM_H
 #define PRM_H
 
 
