@@ -1,4 +1,8 @@
-﻿#include "prm.h"
+/*
+Author : UESTC wxingfu
+*/
+
+#include "prm.h"
 
 void PRM::TestShell(const string &cmds) {
 	//打开命令文件
